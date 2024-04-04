@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hey, I'm Samin 👋
+
+:heart: I'm completely in love with my job and losing track of time while working on developing projects and learning new technologies.
 
 <!--
 **samintaleshi/samintaleshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I am a passionate Software Engineer who enjoys spending countless hours coding
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
